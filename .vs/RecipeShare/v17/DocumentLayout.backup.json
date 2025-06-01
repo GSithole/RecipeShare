@@ -1,0 +1,204 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sitho\\source\\repos\\RecipeShare\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6C86178-3F47-484E-B5F5-9211B266365B}|RecipeShare.Tests\\RecipeShare.Tests.csproj|c:\\users\\sitho\\source\\repos\\recipeshare\\recipeshare.tests\\controller\\recipescontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6C86178-3F47-484E-B5F5-9211B266365B}|RecipeShare.Tests\\RecipeShare.Tests.csproj|solutionrelative:recipeshare.tests\\controller\\recipescontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3FBF96E-8287-4F3B-8273-9F8D89796607}|RecipeShare\\RecipeShare.csproj|c:\\users\\sitho\\source\\repos\\recipeshare\\recipeshare\\controllers\\recipescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3FBF96E-8287-4F3B-8273-9F8D89796607}|RecipeShare\\RecipeShare.csproj|solutionrelative:recipeshare\\controllers\\recipescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3FBF96E-8287-4F3B-8273-9F8D89796607}|RecipeShare\\RecipeShare.csproj|c:\\users\\sitho\\source\\repos\\recipeshare\\recipeshare\\models\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3FBF96E-8287-4F3B-8273-9F8D89796607}|RecipeShare\\RecipeShare.csproj|solutionrelative:recipeshare\\models\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3FBF96E-8287-4F3B-8273-9F8D89796607}|RecipeShare\\RecipeShare.csproj|c:\\users\\sitho\\source\\repos\\recipeshare\\recipeshare\\repository\\reciperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3FBF96E-8287-4F3B-8273-9F8D89796607}|RecipeShare\\RecipeShare.csproj|solutionrelative:recipeshare\\repository\\reciperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3FBF96E-8287-4F3B-8273-9F8D89796607}|RecipeShare\\RecipeShare.csproj|c:\\users\\sitho\\source\\repos\\recipeshare\\recipeshare\\repository\\ireciperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3FBF96E-8287-4F3B-8273-9F8D89796607}|RecipeShare\\RecipeShare.csproj|solutionrelative:recipeshare\\repository\\ireciperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/RecipeDb/True/SqlTable/dbo.Recipes.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3FBF96E-8287-4F3B-8273-9F8D89796607}|RecipeShare\\RecipeShare.csproj|c:\\users\\sitho\\source\\repos\\recipeshare\\recipeshare\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3FBF96E-8287-4F3B-8273-9F8D89796607}|RecipeShare\\RecipeShare.csproj|solutionrelative:recipeshare\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6C86178-3F47-484E-B5F5-9211B266365B}|RecipeShare.Tests\\RecipeShare.Tests.csproj|c:\\users\\sitho\\source\\repos\\recipeshare\\recipeshare.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6C86178-3F47-484E-B5F5-9211B266365B}|RecipeShare.Tests\\RecipeShare.Tests.csproj|solutionrelative:recipeshare.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3FBF96E-8287-4F3B-8273-9F8D89796607}|RecipeShare\\RecipeShare.csproj|c:\\users\\sitho\\source\\repos\\recipeshare\\recipeshare\\data\\recipedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3FBF96E-8287-4F3B-8273-9F8D89796607}|RecipeShare\\RecipeShare.csproj|solutionrelative:recipeshare\\data\\recipedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3FBF96E-8287-4F3B-8273-9F8D89796607}|RecipeShare\\RecipeShare.csproj|c:\\users\\sitho\\source\\repos\\recipeshare\\recipeshare\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A3FBF96E-8287-4F3B-8273-9F8D89796607}|RecipeShare\\RecipeShare.csproj|solutionrelative:recipeshare\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3FBF96E-8287-4F3B-8273-9F8D89796607}|RecipeShare\\RecipeShare.csproj|c:\\users\\sitho\\source\\repos\\recipeshare\\recipeshare\\migrations\\20250530222540_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3FBF96E-8287-4F3B-8273-9F8D89796607}|RecipeShare\\RecipeShare.csproj|solutionrelative:recipeshare\\migrations\\20250530222540_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 189,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RecipesControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\sitho\\source\\repos\\RecipeShare\\RecipeShare.Tests\\Controller\\RecipesControllerTests.cs",
+              "RelativeDocumentMoniker": "RecipeShare.Tests\\Controller\\RecipesControllerTests.cs",
+              "ToolTip": "C:\\Users\\sitho\\source\\repos\\RecipeShare\\RecipeShare.Tests\\Controller\\RecipesControllerTests.cs",
+              "RelativeToolTip": "RecipeShare.Tests\\Controller\\RecipesControllerTests.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T16:19:32.293Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 211,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dbo.Recipes.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/RecipeDb/True/SqlTable/dbo.Recipes.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/RecipeDb/True/SqlTable/dbo.Recipes.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-06-01T17:59:18.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RecipesController.cs",
+              "DocumentMoniker": "C:\\Users\\sitho\\source\\repos\\RecipeShare\\RecipeShare\\Controllers\\RecipesController.cs",
+              "RelativeDocumentMoniker": "RecipeShare\\Controllers\\RecipesController.cs",
+              "ToolTip": "C:\\Users\\sitho\\source\\repos\\RecipeShare\\RecipeShare\\Controllers\\RecipesController.cs",
+              "RelativeToolTip": "RecipeShare\\Controllers\\RecipesController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAIwD0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T16:23:00.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Recipe.cs",
+              "DocumentMoniker": "C:\\Users\\sitho\\source\\repos\\RecipeShare\\RecipeShare\\Models\\Recipe.cs",
+              "RelativeDocumentMoniker": "RecipeShare\\Models\\Recipe.cs",
+              "ToolTip": "C:\\Users\\sitho\\source\\repos\\RecipeShare\\RecipeShare\\Models\\Recipe.cs",
+              "RelativeToolTip": "RecipeShare\\Models\\Recipe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T15:10:41.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRecipeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sitho\\source\\repos\\RecipeShare\\RecipeShare\\Repository\\IRecipeRepository.cs",
+              "RelativeDocumentMoniker": "RecipeShare\\Repository\\IRecipeRepository.cs",
+              "ToolTip": "C:\\Users\\sitho\\source\\repos\\RecipeShare\\RecipeShare\\Repository\\IRecipeRepository.cs",
+              "RelativeToolTip": "RecipeShare\\Repository\\IRecipeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T16:30:50.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RecipeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sitho\\source\\repos\\RecipeShare\\RecipeShare\\Repository\\RecipeRepository.cs",
+              "RelativeDocumentMoniker": "RecipeShare\\Repository\\RecipeRepository.cs",
+              "ToolTip": "C:\\Users\\sitho\\source\\repos\\RecipeShare\\RecipeShare\\Repository\\RecipeRepository.cs",
+              "RelativeToolTip": "RecipeShare\\Repository\\RecipeRepository.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwD8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T16:53:42.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sitho\\source\\repos\\RecipeShare\\RecipeShare\\Program.cs",
+              "RelativeDocumentMoniker": "RecipeShare\\Program.cs",
+              "ToolTip": "C:\\Users\\sitho\\source\\repos\\RecipeShare\\RecipeShare\\Program.cs",
+              "RelativeToolTip": "RecipeShare\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T10:07:32.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\sitho\\source\\repos\\RecipeShare\\RecipeShare.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "RecipeShare.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\sitho\\source\\repos\\RecipeShare\\RecipeShare.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "RecipeShare.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T16:09:45.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250530222540_FirstMigration.cs",
+              "DocumentMoniker": "C:\\Users\\sitho\\source\\repos\\RecipeShare\\RecipeShare\\Migrations\\20250530222540_FirstMigration.cs",
+              "RelativeDocumentMoniker": "RecipeShare\\Migrations\\20250530222540_FirstMigration.cs",
+              "ToolTip": "C:\\Users\\sitho\\source\\repos\\RecipeShare\\RecipeShare\\Migrations\\20250530222540_FirstMigration.cs",
+              "RelativeToolTip": "RecipeShare\\Migrations\\20250530222540_FirstMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T22:25:41.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RecipeDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\sitho\\source\\repos\\RecipeShare\\RecipeShare\\Data\\RecipeDBContext.cs",
+              "RelativeDocumentMoniker": "RecipeShare\\Data\\RecipeDBContext.cs",
+              "ToolTip": "C:\\Users\\sitho\\source\\repos\\RecipeShare\\RecipeShare\\Data\\RecipeDBContext.cs",
+              "RelativeToolTip": "RecipeShare\\Data\\RecipeDBContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T14:58:22.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sitho\\source\\repos\\RecipeShare\\RecipeShare\\appsettings.json",
+              "RelativeDocumentMoniker": "RecipeShare\\appsettings.json",
+              "ToolTip": "C:\\Users\\sitho\\source\\repos\\RecipeShare\\RecipeShare\\appsettings.json",
+              "RelativeToolTip": "RecipeShare\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-29T10:07:27.088Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
