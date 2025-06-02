@@ -1,0 +1,53 @@
+<style>
+  .error-display {
+    color: red;
+    background-color: #ffeaea;
+    border: 1px solid red;
+    padding: 10px;
+    margin-top: 15px;
+    border-radius: 4px;
+  }
+</style>
+
+<div class="container">
+    <div *ngIf="generalErrorMessage && !validationErrors" class="error-display">
+        <p><strong>Error:</strong> {{ generalErrorMessage }}</p>
+        </div>
+
+        <div *ngIf="validationErrors" class="error-display">
+        <p><strong>Validation Errors:</strong></p>
+        <ul>
+            <li *ngFor="let fieldName of (validationErrors | keyvalue)">
+            <strong>{{ fieldName.key }}:</strong>
+            <ul>
+                <li *ngFor="let msg of fieldName.value">{{ msg }}</li>
+            </ul>
+            </li>
+        </ul>
+    </div>
+  <legend>Edit Recipe</legend>
+  <form>
+    <div class="mb-3">
+      <label for="txtTittle" class="form-label">Tittle</label>
+      <input type="text" name="tittle" [(ngModel)] = "formdata.title" class="form-control" id="txtTittle" />
+    </div>
+    <div class="mb-3">
+      <label for="txtIngredients" class="form-label">Ingredients</label>
+      <input type="text" name="ingredients" [(ngModel)] = "formdata.ingredients" class="form-control" id="txtIngredients" />
+    </div>
+    <div class="mb-3">
+      <label for="txtSteps" class="form-label">Steps</label>
+      <input type="text" name="steps" [(ngModel)] = "formdata.steps" class="form-control" id="txtSteps" />
+    </div>
+    <div class="mb-3">
+      <label for="txtCookingTimeMinutes" class="form-label">CookingTimeMinutes</label>
+      <input type="number" name="cookingTimeMinutes" [(ngModel)] = "formdata.cookingTimeMinutes" class="form-control" id="txtCookingTimeMinutes" />
+    </div>
+    <div class="mb-3">
+      <label for="txtDietaryTags" class="form-label">DietaryTags</label>
+      <input type="text" name="dietaryTags" [(ngModel)] = "formdata.dietaryTags" class="form-control" id="txtDietaryTags" />
+    </div>
+    <button type="button" (click)="UpdateRecipe()" class="btn btn-primary">Update</button>
+  </form>
+</div>
+

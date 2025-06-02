@@ -1,0 +1,31 @@
+<div class="container">
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">recipeId</th>
+                <th scope="col">Tittle</th>
+                <th scope="col">Ingredients</th>
+                <th scope="col">Steps</th>
+                <th scope="col">CookingTimeMinutes</th>
+                <th scope="col">DietaryTags</th>
+                <th scope="col">Action</th>
+
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let recipe of recipes">
+                <td scope="row">{{recipe.recipeId}}</td>
+                <td>{{recipe.title}}</td>
+                <td>{{recipe.ingredients}}</td>
+                <td>{{recipe.steps}}</td>
+                <td>{{recipe.cookingTimeMinutes}}</td>
+                <td>{{recipe.dietaryTags}}</td>
+                <td><a href="" class="btn btn-primary" [routerLink]="['/recipe/details',recipe.recipeId]">details</a>
+                <td><a href="" class="btn btn-primary" [routerLink]="['/recipe/edit',recipe.recipeId]">Edit</a>
+                <button type="button" (click)="deleteRecipe(recipe.recipeId)" class="btn btn-danger">Delete</button>
+                </td>
+                
+            </tr>
+        </tbody>
+    </table>
+</div>

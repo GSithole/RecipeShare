@@ -1,0 +1,26 @@
+<div class="container">
+  <legend>Recipe Detail</legend>
+  <form>
+    <div class="mb-3">
+      <label for="txtTittle" class="form-label">Tittle:</label> <br>
+      <label for="txtTittle" class="form-label">{{formdata.title}}</label>      
+    </div>
+    <div class="mb-3">
+      <label for="txtIngredients" class="form-label">Ingredients:</label><br>
+      <label for="txtTittle" class="form-label">{{formdata.ingredients}}</label>
+    </div>
+    <div class="mb-3">
+      <label for="txtSteps" class="form-label">Steps: </label><br>
+      <label for="txtTittle" class="form-label">{{formdata.steps}}</label>
+    </div>
+    <div class="mb-3">
+      <label for="txtCookingTimeMinutes" class="form-label">CookingTimeMinutes:</label><br>
+      <label for="txtTittle" class="form-label">{{formdata.cookingTimeMinutes}}</label>
+    </div>
+    <div class="mb-3">
+      <label for="txtDietaryTags" class="form-label">DietaryTags: </label><br>
+      <label for="txtTittle" class="form-label">{{formdata.dietaryTags}}</label>
+    </div>
+    <td><a href="" class="btn btn-primary" [routerLink]="['/recipe/edit',formdata.recipeId]">Edit</a>
+  </form>
+</div>
